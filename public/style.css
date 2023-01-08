@@ -1,6 +1,6 @@
 body {
-    background-color: red;
-    text-align: center;
+    background-color: indianred;
+    text-align: left;
     color: #fff;
     margin: 0;
 }
@@ -20,4 +20,16 @@ body {
     flex-direction: column;
     align-items: center;
     box-shadow: 2px 2px 10px 2px #000;
+    font-weight: bold;
+}
+
+h1 {
+    display: inline-block;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    box-shadow: inset 1px 1px 10px 5px #000;
 }
